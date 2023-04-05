@@ -1,0 +1,16 @@
+Cálculo de Complejidad Ciclomática
+
+En el grafo2.png podemos observar que contiene
+
+9 Aristas
+7 Nodos
+
+Con dicha información podemos aplicar la siguiente formula
+
+V(G) = Aristas - Nodos + 2
+
+El cual nos dara la complejidad ciclomática.
+Una vez resuelto dicha equación, Obtenemos
+el resultado de 4, lo que significa que la
+complejidad ciclomática es de 4, dando asi
+fin a este cálculo de la complejidad ciclomática.
